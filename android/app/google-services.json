@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "999540194509",
+    "project_id": "kkconferences-2a145",
+    "storage_bucket": "kkconferences-2a145.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:999540194509:android:8a477c1d08664a6fa7bd84",
+        "android_client_info": {
+          "package_name": "com.org.kkconferences"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "999540194509-1oj6rcsfkhvaaml68pkvpks282arhndb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.org.kkconferences",
+            "certificate_hash": "544b45460b636df55efed8c19341fec45cc62aca"
+          }
+        },
+        {
+          "client_id": "999540194509-qjupthvqabr98klrsbl9fkafpv9iguod.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD82F_RA4gCkYIP020i8t2QetDtR7Kk9F8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "999540194509-qjupthvqabr98klrsbl9fkafpv9iguod.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
